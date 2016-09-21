@@ -8,7 +8,7 @@
 
 #### Team SSE
 
-- **K Manoj Kumar**  U101114FCS187
+- **K Manoj Kumar**  U101114FCS
 - **Vinit Koshti**  U101114FCS
 - **Jagrit Kaushik**  U101114FCS
 - **Jeel Shah**  U101114FCS172
